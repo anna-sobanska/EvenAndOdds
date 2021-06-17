@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="divisivleNumber.cpp" />
     <ClCompile Include="evenAndOddNumber.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>

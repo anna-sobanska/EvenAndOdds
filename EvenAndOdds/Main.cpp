@@ -1,6 +1,7 @@
 #include <iostream>
 
 void evenOddNumber();
+void counterLoop();
 
 int main() {
 	int userChoice;
@@ -17,6 +18,8 @@ int main() {
 	case 1:
 		evenOddNumber();
 		break;
+	case 2:
+		counterLoop();
 	default:
 		std::cout << "It is not valid!";
 		break;
