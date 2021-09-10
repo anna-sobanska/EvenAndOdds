@@ -139,9 +139,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="divisivleNumber.cpp" />
-    <ClCompile Include="evenAndOddNumber.cpp" />
-    <ClCompile Include="leapYear.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
